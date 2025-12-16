@@ -1,0 +1,12 @@
+{
+  "name": "authscreen",
+  "version": "1.0.0",
+  "description": "Static server for AuthScreen demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
